@@ -8,6 +8,7 @@ import cv2
 import numpy as np
 from PIL import Image
 
+
 from yolo import YOLO
 
 if __name__ == "__main__":
