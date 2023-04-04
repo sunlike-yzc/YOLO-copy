@@ -3,7 +3,7 @@
 #   整合到了一个py文件中，通过指定mode进行模式的修改。
 #-----------------------------------------------------------------------#
 import time
-
+import torch
 import cv2
 import numpy as np
 from PIL import Image
